@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirie=self.webpackChunkkirie||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u30b7\u30a7\u30fc\u30c0\u30fc\u306b\u3064\u3044\u3066","permalink":"/kirie/blog/onisawa"},{"title":"\u30d6\u30ed\u30b0\u306b\u3064\u3044\u3066","permalink":"/kirie/blog/kame404"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirie=self.webpackChunkkirie||[]).push([[973],{2856:e=>{e.exports=JSON.parse('{"permalink":"/kirie/blog/tags/blender","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

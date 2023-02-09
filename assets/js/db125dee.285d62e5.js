@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirie=self.webpackChunkkirie||[]).push([[399],{8819:e=>{e.exports=JSON.parse('{"label":"kame404","permalink":"/kirie/blog/tags/kame-404","allTagsPath":"/kirie/blog/tags","count":1}')}}]);

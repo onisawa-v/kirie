@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirie=self.webpackChunkkirie||[]).push([[714],{889:e=>{e.exports=JSON.parse('{"label":"\u30b7\u30a7\u30fc\u30c0\u30fc","permalink":"/kirie/blog/tags/\u30b7\u30a7\u30fc\u30c0\u30fc","allTagsPath":"/kirie/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirie=self.webpackChunkkirie||[]).push([[545],{1899:e=>{e.exports=JSON.parse('{"permalink":"/kirie/blog/tags/\u304a\u306b\u3055\u308f","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
