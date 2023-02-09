@@ -21,5 +21,3 @@ This command starts a local development server and opens up a browser window. Mo
 ```
 $ yarn build
 ```
-
-[kirie.kame404.com](https://kirie.kame404.com)に、仮アップロードしています。本番はおにさわさんのサーバーに移したい
