@@ -37,7 +37,7 @@ function HomepageHeader() {
               right: 0,
               margin: "auto",
             }}>
-            <img src="img/header3.png" alt="" />
+            <img src="img/header3.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
             factorX={0.2}
@@ -50,7 +50,7 @@ function HomepageHeader() {
               margin: "auto",
 
             }}>
-            <img src="img/header2.png" alt="" />
+            <img src="img/header2.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
             factorX={0.4}
@@ -62,7 +62,7 @@ function HomepageHeader() {
               right: 0,
               margin: "auto"
             }}>
-            <img src="img/header1.png" alt="" />
+            <img src="img/header1.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
             factorX={0.6}
@@ -74,10 +74,10 @@ function HomepageHeader() {
               right: 0,
               margin: "auto"
             }}>
-            <img src="img/header0.png" alt="" />
+            <img src="img/header0.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild>
-            <img src="img/transparent902.png" alt="" />
+            <img src="img/transparent902.webp" alt="" />
           </MouseParallaxChild>
         </MouseParallaxContainer>
 
@@ -147,6 +147,7 @@ function HomepageHeader() {
             globalFactorX={-0.1}
             globalFactorY={-0.1}
             containerStyle={{
+              height: "720px",
             }}
           >
             <MouseParallaxChild
@@ -160,7 +161,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/5.png" alt="" />
+              <img src="img/5.webp" alt="" />
             </MouseParallaxChild>
             <MouseParallaxChild
               factorX={0.8}
@@ -173,7 +174,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/4.png" alt="" />
+              <img src="img/4.webp" alt="" />
             </MouseParallaxChild>
             <MouseParallaxChild
               factorX={0.6}
@@ -186,7 +187,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/3.png" alt="" />
+              <img src="img/3.webp" alt="" />
             </MouseParallaxChild>
             <MouseParallaxChild
               factorX={0.4}
@@ -199,7 +200,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/2.png" alt="" />
+              <img src="img/2.webp" alt="" />
             </MouseParallaxChild>
             <MouseParallaxChild
               factorX={-0.2}
@@ -212,7 +213,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/1.png" alt="" />
+              <img src="img/1.webp" alt="" />
             </MouseParallaxChild>
             <MouseParallaxChild
               style={{
@@ -222,7 +223,7 @@ function HomepageHeader() {
                 right: 0,
                 margin: "auto"
               }}>
-              <img src="img/transparent724.png" alt="" />
+              <img src="img/transparent724.webp" alt="" />
             </MouseParallaxChild>
           </MouseParallaxContainer>
         </div>
