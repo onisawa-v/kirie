@@ -112,11 +112,11 @@ export function ActiveTeamRow(): JSX.Element {
         userIcon="https://github.com/onisawa-v.png"
         twitterUrl="https://twitter.com/onisawa_v"
         boothUrl="https://onisawa.booth.pm/">
-        シェーダー制作/顔出しパネル制作/Webサイト運営(予定)/ワールド制作・管理
+        シェーダー制作/顔出しパネル制作/Webサイト運営/ワールド制作・管理
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="犬の会長"
-        userIcon="/img/icons/inunokaicyou.jpg"
+        userIcon="https://github.com/inunokaicyou.png"
         twitterUrl="https://twitter.com/@inunokaicyou"
         foriioUrl="https://www.foriio.com/inunokaicyou">
         企画/営業/広報/進行管理/各種規約制作/タイトルロゴ制作/プロモーション動画撮影＆編集
@@ -126,14 +126,14 @@ export function ActiveTeamRow(): JSX.Element {
         userIcon="https://github.com/momocovr.png"
         twitterUrl="https://twitter.com/momocovr"
         skebUrl="https://skeb.jp/@momocovr">
-        コンセプトアート/ロゴデザイン
+        コンセプトアート/イラスト
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="kame404"
         githubUrl="https://github.com/kame404"
         userIcon="https://github.com/kame404.png"
         twitterUrl="https://twitter.com/kame404">
-        ワールドモデリング/Webサイト制作/マニュアル制作/入稿テンプレート制作/Git管理
+        ワールドモデリング/Webサイト制作/入稿テンプレート制作/Git管理
       </TeamProfileCardCol>
 
     </div>
