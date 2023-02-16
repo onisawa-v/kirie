@@ -22,14 +22,14 @@ function HomepageHeader() {
     <header style={{ textAlign: "center" }}>
       <div>
         <MouseParallaxContainer
-          globalFactorX={0.15}
+          globalFactorX={0.08}
           globalFactorY={0.0025}
           containerStyle={{
           }}
         >
           <MouseParallaxChild
-            factorX={0.1}
-            factorY={0.1}
+            factorX={0.8}
+            factorY={0.8}
             style={{
               position: "absolute",
               width: "100%",
@@ -37,11 +37,11 @@ function HomepageHeader() {
               right: 0,
               margin: "auto",
             }}>
-            <img src="img/header3.webp" alt="" />
+            <img src="img/header5.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
-            factorX={0.2}
-            factorY={0.2}
+            factorX={0.6}
+            factorY={0.6}
             style={{
               width: "100%",
               position: "absolute",
@@ -50,7 +50,7 @@ function HomepageHeader() {
               margin: "auto",
 
             }}>
-            <img src="img/header2.webp" alt="" />
+            <img src="img/header4.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
             factorX={0.4}
@@ -62,11 +62,11 @@ function HomepageHeader() {
               right: 0,
               margin: "auto"
             }}>
-            <img src="img/header1.webp" alt="" />
+            <img src="img/header3.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild
-            factorX={0.6}
-            factorY={0.6}
+            factorX={0.2}
+            factorY={0.2}
             style={{
               width: "100%",
               position: "absolute",
@@ -74,7 +74,19 @@ function HomepageHeader() {
               right: 0,
               margin: "auto"
             }}>
-            <img src="img/header0.webp" alt="" />
+            <img src="img/header2.webp" alt="" />
+          </MouseParallaxChild>
+          <MouseParallaxChild
+            factorX={-0.1}
+            factorY={-0.1}
+            style={{
+              width: "100%",
+              position: "absolute",
+              left: 0,
+              right: 0,
+              margin: "auto"
+            }}>
+            <img src="img/header1.webp" alt="" />
           </MouseParallaxChild>
           <MouseParallaxChild>
             <img src="img/transparent902.webp" alt="" />
