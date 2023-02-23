@@ -264,6 +264,97 @@ function HomepageHeader() {
 
 
         <iframe src="https://www.youtube.com/embed/GdWQEjAsvas"></iframe>
+
+        <br />
+        <br />
+
+        <div style={{
+          width: "100%",
+          left: 0,
+          right: 0,
+          margin: "auto",
+          alignItems: 'center',
+          backgroundColor: 'white'
+        }}>
+
+          <h1 style={{color: 'black', padding: "30px" }}>協賛企業・協力団体(順不同)</h1>
+
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}>
+            <a href="https://tenshabi.com/" style={{ width: "600px", maxWidth: "45%", marginRight: "10px", marginLeft: "10px" }}>
+              <img
+                src='img/tenshabi.png'
+                alt="tenshabi"
+              />
+            </a>
+            <a href="https://shachimonaka.com/" style={{ width: "500px", maxWidth: "40%", marginRight: "10px", marginLeft: "10px" }}>
+              <img
+                src='img/739bd03b12cd8fe8.png'
+                alt="鯱もなか本店"
+              />
+            </a>
+          </div>
+
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}>
+            <a href="https://www.hikky.co.jp/" style={{ width: "200px", maxWidth: "17%", marginRight: "10px", marginLeft: "15px"  }}>
+              <img
+                src='img/HIKKY_logo_main.png'
+                alt="HIKKY"
+              />
+            </a>
+            <a href="https://www.moguravr.com/" style={{ width: "200px", maxWidth: "17%", marginRight: "15px", marginLeft: "15px"  }}>
+              <img
+                src='img/header-logo-general.png'
+                alt="MoguraVR"
+              />
+            </a>
+            <a href="https://vr-lifemagazine.com/" style={{ width: "200px", maxWidth: "17%", marginRight: "15px", marginLeft: "15px"  }}>
+              <img
+                src='img/2211VLM_logo-renew_color.png'
+                alt="バーチャルライフマガジン"
+              />
+            </a>
+            <a href="https://www.youtube.com/c/OcutanBotVRChannel" style={{ width: "200px", maxWidth: "17%", marginRight: "15px", marginLeft: "10px"  }}>
+              <img
+                src='img/OcutanVR-Ch_SimpleLogo.png'
+                alt="おきゅたん"
+              />
+            </a>
+          </div>
+          <br />
+          {/*
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}>
+            <img
+              src='img/739bd03b12cd8fe8.png'
+              alt="HIKKY"
+              style={{ maxWidth: "300px" , margin: "10px" }}
+            />
+            <img
+              src='img/OcutanVR-Ch_SimpleLogo.png'
+              alt="HIKKY"
+              style={{ maxWidth: "300px" , margin: "10px" }}
+            />
+            <img
+              src='img/tenshabi.png'
+              alt="HIKKY"
+              style={{ maxWidth: "300px" , margin: "10px" }}
+            />
+          </div>
+          */}
+          <br />
+
+        </div>
       </div>
 
     </header>
