@@ -284,16 +284,22 @@ function HomepageHeader() {
             justifyContent: 'center',
             alignItems: 'center',
           }}>
-            <a href="https://tenshabi.com/" style={{ width: "600px", maxWidth: "45%", marginRight: "10px", marginLeft: "10px" }}>
+            <a href="https://tenshabi.com/" style={{ width: "400px", maxWidth: "40%", marginRight: "10px", marginLeft: "10px" }}>
               <img
                 src='img/tenshabi.png'
                 alt="tenshabi"
               />
             </a>
-            <a href="https://shachimonaka.com/" style={{ width: "500px", maxWidth: "40%", marginRight: "10px", marginLeft: "10px" }}>
+            <a href="https://shachimonaka.com/" style={{ width: "500px", maxWidth: "30%", marginRight: "10px", marginLeft: "10px" }}>
               <img
                 src='img/739bd03b12cd8fe8.png'
                 alt="鯱もなか本店"
+              />
+              </a>
+            <a href="https://www.dondontei.com/" style={{ width: "500px", maxWidth: "20%", marginRight: "10px", marginLeft: "10px" }}>
+              <img
+                src='img/dondontei_logo_1_1.jpg'
+                alt="どんどん亭"
               />
             </a>
           </div>
